@@ -1,3 +1,18 @@
 Doruk Işık - 22101911 - https://github.com/dorukiskk
 
 My favorite video game: Transformice
+
+commit 57b642708a3a39ce5f077a8303250d9745bdfae3 (HEAD -> main, origin/main, origin/HEAD) 
+Merge: ab0ef86 82f5c59
+Author: Doruk <91568935+dorukiskk@users.noreply.github.com>
+Date:   Thu Feb 10 23:53:13 2022 +0300
+
+    Merge pull request #1 from dorukiskk/new_information
+    
+    Inserted my favorite video game
+
+commit 82f5c592e35804da347c9a53ff6d77653c31de36 (origin/new_information, new_information)
+Author: Doruk Işık <doruk003@gmail.com>
+Date:   Thu Feb 10 23:48:55 2022 +0300
+
+    Inserted my favorite video game
